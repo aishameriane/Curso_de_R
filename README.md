@@ -1,1 +1,1 @@
-# Curso_de_R
+# Exemplos do Curso de Introdução ao R usando RStudio
